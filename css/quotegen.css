@@ -1,0 +1,51 @@
+body {background-image: url("https://s-media-cache-ak0.pinimg.com/736x/3b/d3/85/3bd385a7dadc070e6d107be2ccf6beac.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+      margin: 30px;
+  }
+  .white-text {
+    color: white;
+    text-align: center;
+  }
+
+  h1 {font-size: 70px;}
+
+  h2 {font-size: 40px;}
+
+  .button {
+    padding: 15px 25px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .button:hover {background-color: grey;}
+  
+  .button:active {
+    background-color: #173220;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .black-box {
+      background-color: black;
+      display: inline;
+  }
+  .message p {
+      background-color: black;
+      display: inline;
+      margin: auto;
+      color: white;
+      font-size: 40px;
+  }
+  .message {
+      text-align: center;
+  }
+  
